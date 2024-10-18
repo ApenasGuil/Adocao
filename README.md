@@ -1,12 +1,12 @@
 # AdoCão
 
 AdoCão é uma plataforma de doação de pets (cachorros, gatos, pássaros, etc.), permitindo que usuários anunciem animais disponíveis para adoção.
-Os usuários podem adicionar detalhes sobre o pet e imagens, e a plataforma apresenta uma lista de pets disponíveis para adoção baseada na proximidade da localização do usuário (cidade).
+Os usuários podem adicionar detalhes sobre o pet e imagens, e a plataforma apresenta uma lista de pets disponíveis para adoção baseada na proximidade da localização do usuário (bairro e cidade).
 
 ## Funcionalidades
 
 ### Usuário:
-- Cadastro de usuário
+- Cadastro de usuário:
   - Nome,
   - Email,
   - Senha,
